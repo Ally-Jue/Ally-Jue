@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ally-Jue
-- 👀 I’m interested in 
-- 🌱 I’m currently learning HTML, CSS and JS 
+- 👀 I’m interested in some things which I'll want to reach 
+- 🌱 I’m currently learning DevOps basics 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
